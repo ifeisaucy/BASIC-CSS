@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    text-align: center;
+    font-family: "Merriweather", serif;
+  }
+  h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    color: #fff;
+  }
+  .aboutme {
+    color: #fff;
+  }
+  
+  h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.8rem;
+    color: #66bfbf;
+  }
+  h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #11999e;
+  }
+  #top-container {
+    background-color: #66bfbf;
+    position: relative;
+    padding-top: 50px;
+  }
+  #top-container p {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .skill-row {
+    width: 50%;
+    margin: auto;
+  }
+  .middle-container {
+    padding: 30px 0;
+    line-height: 2rem;
+  }
+  
+  .programmng-skill {
+    padding: 20px 0;
+  }
+  
+  .services-container {
+    padding: 50px 0;
+    line-height: 2;
+    background-color: #acdbdb;
+  }
+  #contact-container {
+    padding: 40px 0;
+    line-height: 2;
+  }
+  
+  .gender-hobbies{
+      display: flex;
+      justify-content: space-around;
+  }
+  .button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #11999e;
+    color: white;
+  }
+  #form-section{
+      padding: 30px;
+  }
+  
+  .about-section {
+    padding: 100px 0;
+    display: flex;
+    justify-content: space-around;
+    line-height: 2rem;
+  }
+  #footer-section {   
+    padding: 20px 0;
+    line-height: 2;
+    background-color: #11999e;aa
+  }
+  
